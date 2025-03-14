@@ -63,5 +63,3 @@ I specialize in **hybrid cloud environments**, Kubernetes, and DevOps automation
   <img src="https://img.shields.io/badge/Service%20Mesh-Istio%20%7C%20Cilium-0099CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitOps-Argocd%20%7C%20Helm-CC0000?style=for-the-badge" />
 </p>
-
----
